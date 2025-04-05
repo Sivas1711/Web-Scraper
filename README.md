@@ -19,7 +19,8 @@ This project is a simple Python-based scraper that retrieves the latest world ne
  Install Dependencies
 
 bash
-pip install requests
-pip install beautifulsoup4
-pip install wikipedia
+
+-pip install requests
+-pip install beautifulsoup4
+-pip install wikipedia
 
